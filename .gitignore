@@ -1,0 +1,18 @@
+# Source and development files
+*.java
+*.class
+.gradle/
+build/
+src/
+
+# Server and world data
+world/
+config/
+mods/
+logs/
+crash-reports/
+*.snbt
+*.dat
+
+# Release binaries stay in GitHub Releases, not the repository
+*.jar
